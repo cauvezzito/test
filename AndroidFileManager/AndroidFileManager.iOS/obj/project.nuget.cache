@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LA9fW5suQsI0gL5WoHpJdISLjHtnyLFY5HCsleb5+U4FoxNE16FdQAZ7QnbpgX9oRtHU0GSQf7dFQmtE+OcaEw==",
+  "dgSpecHash": "ZZANKRoA4IuWn6gZvhn4guKNOwgiBVOAnTwgOSsDA4uSVLHv+ZPxKmR6w33ad6WPVRBzA0+R7N5xita4hHa9/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clere\\OneDrive\\Documents\\GitHub\\2021_ProjetTut-S3\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
+  "projectFilePath": "C:\\Users\\louis\\Desktop\\test\\AndroidFileManager\\AndroidFileManager.iOS\\AndroidFileManager.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\clere\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\louis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

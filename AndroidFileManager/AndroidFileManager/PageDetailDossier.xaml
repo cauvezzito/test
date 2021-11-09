@@ -115,10 +115,6 @@
                     <Label Text="Retour" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold"/>
                 </StackLayout>
 
-                <StackLayout Grid.Column="2" Grid.Row="0" Orientation="Vertical">
-                    <Button ImageSource="supprimer_blanc.png" BackgroundColor="LightSeaGreen"/>
-                    <Label Text="Supprimer" HorizontalOptions="Center" FontSize="12" FontAttributes="Bold"/>
-                </StackLayout>
 
             </Grid>
 
