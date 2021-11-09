@@ -35,7 +35,7 @@
 
         <Frame BackgroundColor="LightSeaGreen" Padding="1"  AbsoluteLayout.LayoutBounds="0,1,1,0.1" AbsoluteLayout.LayoutFlags="All" >
 
-            <Grid Margin="3,0,3,0">
+            <Grid Margin="3+++²,0,3,0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="0.32*"/>
                     <ColumnDefinition Width="0.32*"/>
