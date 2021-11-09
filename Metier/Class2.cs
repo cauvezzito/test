@@ -6,5 +6,6 @@ namespace Metier
 {
     class Class2
     {
+        //coucou
     }
 }
